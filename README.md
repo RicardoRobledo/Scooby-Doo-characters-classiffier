@@ -33,3 +33,7 @@ Using the **Scooby-Doo classification dataset**, we apply computer vision techni
 ## 📊 Expected Outcomes  
 - Accurate classification of characters in the dataset  
 - Graphical representations of the HOG extraction process  
+
+<p align="center">
+<image src="https://github.com/RicardoRobledo/Scooby-Doo-characters-classiffier/blob/main/shaggy.png" width="500px" height="500px">
+</p>
